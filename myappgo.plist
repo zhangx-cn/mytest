@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tencent.clover</string>
+				<string>com.xzx.FXGame</string>
 				<key>bundle-version</key>
-				<string1.10.670</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>雷霆战机-v1.10.670</string>
+				<string>MyAppGo</string>
 			</dict>
 		</dict>
 	</array>
